@@ -5,6 +5,9 @@
 
 2、创建`virtual host`  
 以itsm通道为例  
-![admin](./img/virtual_host.png "添加用户")  
+![virtual_host](./img/virtual_host.png "添加用户")  
 
-3、
+3、队列  
+![queue](./img/queue.png "队列")  
+
+![get_messages](./img/get_messages.png "队列中的内容")  
